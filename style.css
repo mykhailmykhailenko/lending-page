@@ -75,3 +75,11 @@ button:hover {
    margin: 0;
    padding: 0;
 }
+
+@media screen and (max-width: 576px) {
+   .section-c-text {
+      display: block;
+      width: 100%;
+   }
+   
+}
